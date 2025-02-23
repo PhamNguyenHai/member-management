@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LG CNS\\Wpf\\Member management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|e:\\lg cns\\wpf\\member management\\member management\\memberpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|solutionrelative:member management\\memberpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|e:\\lg cns\\wpf\\member management\\member management\\viewmodels\\vm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|solutionrelative:member management\\viewmodels\\vm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|e:\\lg cns\\wpf\\member management\\member management\\memberpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|solutionrelative:member management\\memberpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|e:\\lg cns\\wpf\\member management\\member management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|solutionrelative:member management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|e:\\lg cns\\wpf\\member management\\member management\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{439FA205-855B-4981-A8DE-FDFF4073ACE3}|Member management\\Member management.csproj|solutionrelative:member management\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberPopup.xaml",
+              "DocumentMoniker": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MemberPopup.xaml",
+              "RelativeDocumentMoniker": "Member management\\MemberPopup.xaml",
+              "ToolTip": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MemberPopup.xaml",
+              "RelativeToolTip": "Member management\\MemberPopup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T15:49:12.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberPopup.xaml.cs",
+              "DocumentMoniker": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MemberPopup.xaml.cs",
+              "RelativeDocumentMoniker": "Member management\\MemberPopup.xaml.cs",
+              "ToolTip": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MemberPopup.xaml.cs",
+              "RelativeToolTip": "Member management\\MemberPopup.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:48:08.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Member management\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Member management\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:41:44.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VM_Member.cs",
+              "DocumentMoniker": "E:\\LG CNS\\Wpf\\Member management\\Member management\\ViewModels\\VM_Member.cs",
+              "RelativeDocumentMoniker": "Member management\\ViewModels\\VM_Member.cs",
+              "ToolTip": "E:\\LG CNS\\Wpf\\Member management\\Member management\\ViewModels\\VM_Member.cs",
+              "RelativeToolTip": "Member management\\ViewModels\\VM_Member.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAADoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:12:21.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Member management\\MainWindow.xaml",
+              "ToolTip": "E:\\LG CNS\\Wpf\\Member management\\Member management\\MainWindow.xaml",
+              "RelativeToolTip": "Member management\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T11:29:16.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

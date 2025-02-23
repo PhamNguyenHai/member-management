@@ -1,0 +1,53 @@
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.csproj.AssemblyReference.cache
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management_MarkupCompile.cache
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\Member management.exe
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\Member management.deps.json
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\Member management.runtimeconfig.json
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\Member management.dll
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\Member management.pdb
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\phamn\source\repos\Member management\Member management\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\App.baml
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.g.resources
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.AssemblyInfoInputs.cache
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.AssemblyInfo.cs
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.csproj.CoreCompileInputs.cache
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member m.A4C239ED.Up2Date
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.dll
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\refint\Member management.dll
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.pdb
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\Member management.genruntimeconfig.cache
+C:\Users\phamn\source\repos\Member management\Member management\obj\Debug\net6.0-windows\ref\Member management.dll
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\Member management.exe
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\Member management.deps.json
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\Member management.runtimeconfig.json
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\Member management.dll
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\Member management.pdb
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\LG CNS\Wpf\Member management\Member management\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.csproj.AssemblyReference.cache
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\MainWindow.baml
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\App.baml
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\App.g.cs
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management_MarkupCompile.cache
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.g.resources
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.GeneratedMSBuildEditorConfig.editorconfig
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.AssemblyInfoInputs.cache
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.AssemblyInfo.cs
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.csproj.CoreCompileInputs.cache
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member m.A4C239ED.Up2Date
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.dll
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\refint\Member management.dll
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.pdb
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.genruntimeconfig.cache
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\ref\Member management.dll
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\MemberPopup.g.cs
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management_MarkupCompile.lref
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\MemberPopup.baml
