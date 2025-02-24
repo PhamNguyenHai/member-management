@@ -1,4 +1,5 @@
 ﻿using Member_management.Models;
+using Member_management.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,12 +21,10 @@ namespace Member_management
     /// </summary>
     public partial class MemberPopup : Window
     {
-        public List<Position> Positions { get; set; }
-        public Member ActionMember { get; private set; }
-        public MemberPopup()
+        public MemberPopup(VM_MemberPopup viewModel)
         {
             InitializeComponent();
-            DataContext = this;
+            DataContext = viewModel;
         }
 
         private void btnCancel_Click(object sender, RoutedEventArgs e)
@@ -33,20 +32,10 @@ namespace Member_management
             Close();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void btnSubmit_Click(object sender, RoutedEventArgs e)
         {
-            ActionMember = new Member
-            {
-                Id = Guid.NewGuid(),
-                Number = txtNumber.Text,
-                Name = txtName.Text,
-                Position = (Position)cbbPosition.SelectedItem,
-                Email = txtEmail.Text,
-                PhoneNumber = txtPhoneNumber.Text
-            };
-
-            DialogResult = true; // Xác nhận thêm thành công
-            Close();
+            this.DialogResult = true;
+            this.Close();
         }
     }
 }

@@ -159,11 +159,11 @@
                        Panel.ZIndex="1" Text="Search in Members ..."
                        Visibility="{Binding ElementName=textBoxFilter, Path=Text.IsEmpty, Converter={StaticResource BoolToVis}}" />
 
-                    <TextBox Name="textBoxFilter" Style="{StaticResource filterTextBox}" Foreground="Black"/>
+                    <TextBox Name="textBoxFilter" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource filterTextBox}" Foreground="Black"/>
                 </Grid>
 
                 <!--Members Data Grid-->
-                <DataGrid ItemsSource="{Binding Members}" RowStyle="{DynamicResource DataGridRowStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" x:Name="membersDataGrid" Style="{DynamicResource DataGridStyle1}" SelectedItem="{Binding SelectedMember, Mode=TwoWay}">
+                <DataGrid ItemsSource="{Binding FilteredMembers}" RowStyle="{DynamicResource DataGridRowStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" x:Name="membersDataGrid" Style="{DynamicResource DataGridStyle1}" SelectedItem="{Binding SelectedMember, Mode=TwoWay}">
                     <DataGrid.Columns>
                         <DataGridCheckBoxColumn Header="C" CanUserResize="False" Width="auto" ElementStyle="{StaticResource CheckBoxStyle1}">
                             <DataGridCheckBoxColumn.HeaderTemplate>
@@ -194,7 +194,7 @@
                             <DataGridTemplateColumn.CellTemplate>
                                 <DataTemplate>
                                     <StackPanel Orientation="Horizontal">
-                                        <Button Style="{StaticResource gridEditButton}">
+                                        <Button Style="{StaticResource gridEditButton}" Command="{Binding DataContext.EditMemberCommand, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" CommandParameter="{Binding}">
                                             <Icon:PackIconMaterial Kind="PencilOutline" Style="{StaticResource gridButtonIcon}"/>
                                         </Button>
                                         <Button Margin="5 0 0 0" Style="{StaticResource gridRemoveButton}" Command="{Binding DataContext.DeleteMemberCommand, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" CommandParameter="{Binding}">
