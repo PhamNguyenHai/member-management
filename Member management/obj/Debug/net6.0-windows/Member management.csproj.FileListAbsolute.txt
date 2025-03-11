@@ -52,3 +52,4 @@ E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Membe
 E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management_MarkupCompile.lref
 E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\MemberPopup.baml
 E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Member management.sourcelink.json
+E:\LG CNS\Wpf\Member management\Member management\obj\Debug\net6.0-windows\Style.baml

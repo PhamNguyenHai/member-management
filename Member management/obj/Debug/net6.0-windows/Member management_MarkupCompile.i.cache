@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\LG CNS\Wpf\Member management\Member management\App.xaml
-21663676932
+31886908023
 
 13261146661
 196-513859012
-MainWindow.xaml;MemberPopup.xaml;
+MainWindow.xaml;MemberPopup.xaml;Style.xaml;
 
 True
 
